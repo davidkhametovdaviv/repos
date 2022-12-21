@@ -35,10 +35,12 @@ def corner_distance(b:int, b1:int, d:int, d1:int) -> float:
     return res
 ```
 ***Данная программа была написана в ходе выполнения 5 Практической работы по предмету Введение в практическую деятельность. ИКИТ Прог. Инж.***
+___
 - [X] END
   - [X] END
     - [X] END
       - [X] END
 
 [My vk](https://vk.com/defbritva)
+___
 
